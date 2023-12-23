@@ -2,7 +2,7 @@ import logging
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import Message
 
-# Replace 'YOUR_BOT_TOKEN' with the actual token of your Telegram bot
+
 TOKEN = '6661964239:AAEwG7aH7gbU-7-xQ6pjqAKsa2jqptDEYzw'
 
 logging.basicConfig(level=logging.INFO)
